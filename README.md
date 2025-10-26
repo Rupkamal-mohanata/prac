@@ -1,2 +1,2 @@
 # prac
-its demo repo
+its demo repo.
